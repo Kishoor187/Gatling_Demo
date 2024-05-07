@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>io.gatling</groupId>
 			<artifactId>gatling-core-java</artifactId>
-			<version>3.10.4</version>
+			<version>3.11.2</version>
 		</dependency>
 
 	</dependencies>
