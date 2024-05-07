@@ -1,0 +1,14 @@
+post_body,Get_Resourse,Put_body
+"{
+        
+        ""title"": ""Manager"",
+        ""body"": ""Gatling"",
+        ""author"": ""joshi""
+    }
+",/api/read.php,"{
+        ""id"": ""971"",
+        ""title"": ""Project Manager"",
+        ""body"": ""Automation"",
+        ""author"": ""joshi""
+    }
+"
